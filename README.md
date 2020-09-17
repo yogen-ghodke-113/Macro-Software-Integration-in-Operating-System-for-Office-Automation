@@ -2,8 +2,8 @@
 Research Paper published in IJARIE International Journal Vol. 4 Issue 4 , 2018
 
 ## Collaborators
-*Yogen Ghodke
-*Sudesh Pawar
+* Yogen Ghodke
+* Sudesh Pawar
 
 ## Abstract
 <i>Automation is the creation of tools to automate any task or a group of tasks sequentially without human
