@@ -1,6 +1,10 @@
 # Macro-Software-Integration-in-Operating-System-for-Office-Automation
 Research Paper published in IJARIE International Journal Vol. 4 Issue 4 , 2018
 
+## Collaborators
+### Yogen Ghodke
+### Sudesh Pawar
+
 ## Abstract
 <i>Automation is the creation of tools to automate any task or a group of tasks sequentially without human
 intervention. Such automation systems are widely used in the industry in a huge variety of applications, especially
